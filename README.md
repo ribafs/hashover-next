@@ -8,6 +8,15 @@ of JavaScript or PHP to the source code of any webpage. HashOver is a
 self-hosted system and allows completely anonymous comments to be posted, the
 only required information is the comment itself.
 
+## Resumo
+
+- https://www.barkdull.org/software/hashover
+- https://docs.barkdull.org/hashover-v2
+- Configurar: backend/classes/secrets.php (email, key, etc) 
+- https://github.com/jacobwb/hashover-next
+- Admin - hashover/admin (idioma pt-br e outros)
+
+
 
 Notable Features
 ---
